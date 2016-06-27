@@ -1,0 +1,5 @@
+D:\gamedev\snake2\snake\snake\bin\Debug\snake.exe.config
+D:\gamedev\snake2\snake\snake\bin\Debug\snake.exe
+D:\gamedev\snake2\snake\snake\bin\Debug\snake.pdb
+D:\gamedev\snake2\snake\snake\obj\Debug\snake.exe
+D:\gamedev\snake2\snake\snake\obj\Debug\snake.pdb
